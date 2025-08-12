@@ -8,8 +8,8 @@
   },
   "devDependencies": {
     "@jest/types": "^30.0.5",
-    "@rslib/core": "^0.11.0",
-    "@swc/types": "^0.1.23"
+    "@rslib/core": "^0.11.2",
+    "@swc/types": "^0.1.24"
   },
   "dependencies": {
     "@swc/jest": "^0.2.39",

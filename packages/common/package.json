@@ -28,13 +28,13 @@
     "build": "rslib build"
   },
   "devDependencies": {
-    "@microsoft/api-extractor": "^7.52.9",
-    "@rslib/core": "^0.11.0",
-    "@types/node": "^24.1.0",
+    "@microsoft/api-extractor": "^7.52.10",
+    "@rslib/core": "^0.11.2",
+    "@types/node": "^24.2.1",
     "@whatever/macros": "workspace:^",
     "utility-types": "^3.11.0"
   },
   "dependencies": {
-    "core-js": "^3.44.0"
+    "core-js": "^3.45.0"
   }
 }

@@ -33,7 +33,7 @@ export default function Home(): ReactNode {
             });
             INFO(logger, 'response: %o', data);
           }}
-          className="mt-4"
+          className="mt-4 bg-red-500"
         >
           <MdOutlinePlayArrow className="mr-2 size-4" />
         </Button>

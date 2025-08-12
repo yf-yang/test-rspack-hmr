@@ -1,0 +1,26 @@
+diff --git a/dist/index.cjs b/dist/index.cjs
+index aa648d216ff3d7dac005e7159e703f45d537a76a..be0862374efbfc8ac18c62226b1010c38fa3f245 100644
+--- a/dist/index.cjs
++++ b/dist/index.cjs
+@@ -534,8 +534,6 @@ export { ${output.exports.map((exp)=>'default' === exp ? 'defaultExport as defau
+                         },
+                         dev: {
+                             writeToDisk: !0,
+-                            hmr: !1,
+-                            liveReload: !0,
+                             setupMiddlewares: pluginOptions.customServer ? [] : [
+                                 (middlewares, server)=>{
+                                     middlewares.push(createDevServerMiddleware(server));
+diff --git a/dist/index.js b/dist/index.js
+index 13b0e46a2f168dbac1fb1307a15c2dcffb686571..e30d078de07f26143f34504e2783ce599579eb7f 100644
+--- a/dist/index.js
++++ b/dist/index.js
+@@ -519,8 +519,6 @@ let pluginReactRouter = (options = {})=>({
+                     },
+                     dev: {
+                         writeToDisk: !0,
+-                        hmr: !1,
+-                        liveReload: !0,
+                         setupMiddlewares: pluginOptions.customServer ? [] : [
+                             (middlewares, server)=>{
+                                 middlewares.push(createDevServerMiddleware(server));
