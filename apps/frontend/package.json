@@ -33,7 +33,7 @@
   "devDependencies": {
     "@chromatic-com/storybook": "^4.1.0",
     "@react-router/dev": "^7.8.0",
-    "@rsbuild/core": "1.5.0-beta.0",
+    "@rsbuild/core": "1.5.0-beta.2",
     "@rsbuild/plugin-babel": "^1.0.6",
     "@rsbuild/plugin-node-polyfill": "^1.4.1",
     "@rsbuild/plugin-react": "^1.3.5",
@@ -41,7 +41,7 @@
     "@rspack/core": "1.5.0-beta.0",
     "@storybook/addon-essentials": "9.0.0-alpha.12",
     "@storybook/react": "^9.1.2",
-    "@tailwindcss/postcss": "^4.1.11",
+    "@tailwindcss/postcss": "^4.1.12",
     "@types/node": "^24.2.1",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
@@ -49,8 +49,8 @@
     "babel-plugin-react-compiler": "19.1.0-rc.2",
     "rsbuild-plugin-react-router": "^0.0.5",
     "shadcn": "2.10.0",
-    "storybook-react-rsbuild": "^2.0.3",
-    "tailwindcss": "^4.1.11",
+    "storybook-react-rsbuild": "^2.0.4",
+    "tailwindcss": "^4.1.12",
     "tw-animate-css": "^1.3.6",
     "utility-types": "^3.11.0"
   }

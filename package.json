@@ -15,7 +15,7 @@
     "@jest/expect": "^30.0.5",
     "@jest/globals": "^30.0.5",
     "@rsbuild/core": "1.4.15",
-    "@rslib/core": "^0.11.2",
+    "@rslib/core": "^0.12.0",
     "@whatever/eslint-config": "workspace:^",
     "@whatever/jest-config": "workspace:^",
     "@whatever/ts-config": "workspace:^",
@@ -29,7 +29,7 @@
     "prettier": "^3.6.2",
     "storybook": "^9.1.2",
     "toml": "^3.0.0",
-    "tsx": "^4.20.3",
+    "tsx": "^4.20.4",
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.39.1"
   },
